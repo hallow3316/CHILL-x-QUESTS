@@ -59,7 +59,7 @@ Use the software responsibly and in accordance with Discord's Terms of Service.
 
 **Proprietary — All Rights Reserved**
 
-Copyright © 2026 Hallowww.
+Copyright © 2026 Hallow.
 
 Unauthorized copying, modification, redistribution, or commercial use of this software is prohibited.
 
